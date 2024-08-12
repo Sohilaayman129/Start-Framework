@@ -1,0 +1,12 @@
+.icon{
+    padding: 10px;
+    border: white 1px solid;
+    border-radius: 50%;
+}
+.footer{
+    background-color: #2c3e50;
+}
+.end{
+    background-color: #1a252f;
+    padding: 15px;
+}
